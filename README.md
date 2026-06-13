@@ -11,5 +11,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+### 📱 Contato:
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xzx.biasouza/)
+
 ### ⚡ Curiosidades:
 Além de escrever código e montar circuitos no clube de robótica, gosto de jogar tênis de mesa e me aventurar na criação de projetos musicais.
